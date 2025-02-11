@@ -1,0 +1,31 @@
+Explanations for each term related to flights:
+
+- **_id:** This usually represents a unique identifier for each record in the dataset. It could be an alphanumeric code used to 
+distinguish each flight or data entry.
+
+- **Year:** This indicates the year in which the flight data was recorded. For example, 2025.
+
+- **Quarter:** This denotes the specific quarter of the year in which the data was recorded. Typically, there are four quarters 
+in a year:
+  - Q1: January - March
+  - Q2: April - June
+  - Q3: July - September
+  - Q4: October - December
+
+- **Origin:** This represents the airport code of the departure location of the flight. For example, BOM for Chhatrapati 
+Shivaji Maharaj International Airport in Mumbai.
+
+- **Dest:** This stands for the destination airport code where the flight is landing. For example, DXB for Dubai International 
+Airport.
+
+- **Pax From Origin:** This term refers to the number of passengers departing from the origin airport.
+
+- **Pax To Origin:** This term refers to the number of passengers arriving at the origin airport from other locations.
+
+- **Freight From Origin:** This indicates the amount of freight (cargo) that is being shipped from the origin airport.
+
+- **Freight To Origin:** This indicates the amount of freight (cargo) that is being received at the origin airport from other 
+locations.
+
+These terms are essential for analyzing and understanding flight data, passenger traffic, and cargo movement in and out of 
+airports.
